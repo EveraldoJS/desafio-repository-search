@@ -5,4 +5,5 @@ Criar um App Android simples que armazene um usuário do GitHub (informado em um
 
 
 ![Screenshot_20230915_150839.png](..%2FScreenshot_20230915_150839.png)
+
 ![Screenshot_20230915_150956.png](..%2FScreenshot_20230915_150956.png)
