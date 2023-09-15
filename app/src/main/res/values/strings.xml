@@ -2,4 +2,7 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="response_error">Erro tente outravez!</string>
+    <string name="nome_github">nome_github</string>
+    <string name="shared_icon_content_description">Botão Compartilhar</string>
 </resources>
