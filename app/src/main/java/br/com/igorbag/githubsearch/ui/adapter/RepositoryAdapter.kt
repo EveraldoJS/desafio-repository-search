@@ -70,6 +70,7 @@ class RepositoryAdapter(private val repositories: List<Repository>) :
             }
         }
     }
+
 }
 
 
